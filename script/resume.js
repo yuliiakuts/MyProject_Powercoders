@@ -1,16 +1,16 @@
 let images = [
     {
-        sors: "/MyProject/img/photo_small/23.jpg",
+        sors: "./img/photo_small/23.jpg",
         head: "About me",
         text: "<ul><li>Age: 44</li><li>Height: 175sm</li><li>Weight: 79kg</li></ul>"
     },
     {
-        sors: "/MyProject/img/photo_small/21.jpg",
+        sors: "./img/photo_small/21.jpg",
         head: "Languages",
         text: "<ul><li>Ukrainian</li><li>English</li><li>French</li></ul>"
     },
     {
-        sors: "/MyProject/img/photo_small/25.jpg",
+        sors: "./img/photo_small/25.jpg",
         head: "Skills",
         text: "<ul><li>Driving</li><li>Fishing</li><li>Football</li></ul>"
     }
